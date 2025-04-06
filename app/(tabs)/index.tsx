@@ -32,8 +32,8 @@ export default function Index() {
       </>
     )
   );
-  console.log("hehe");
-  console.log(movies);
+  console.log(1);
+
 
   return (
     <View className="flex-1 bg-primary">
