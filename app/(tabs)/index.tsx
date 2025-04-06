@@ -33,6 +33,7 @@ export default function Index() {
     )
   );
   console.log("test1");
+  console.log("test2");
 
   return (
     <View className="flex-1 bg-primary">
