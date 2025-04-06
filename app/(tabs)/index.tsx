@@ -32,6 +32,8 @@ export default function Index() {
       </>
     )
   );
+  console.log("test1");
+
   return (
     <View className="flex-1 bg-primary">
       <Image source={images.bg} className="absolute w-full z-0" />
