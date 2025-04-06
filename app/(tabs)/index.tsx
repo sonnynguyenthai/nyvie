@@ -37,6 +37,8 @@ export default function Index() {
   console.log("test3");
   console.log("test4");
 
+  console.log("test5");
+
   return (
     <View className="flex-1 bg-primary">
       <Image source={images.bg} className="absolute w-full z-0" />
